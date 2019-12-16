@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Artylery" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAQAAAAACgAiAASAAAgAAAAAAAAAACwIQAAgAAAAA=</HashCode>
+      <FileName>Artylery.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAgAAggAAAAACAICDAQANAAAAEAAQBAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObj" Collapsed="true">
+    <Position X="4" Y="2" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAEAYIIAAIEMxAYBABQAEUIABQCABQAiVACAIIAMSA=</HashCode>
+      <FileName>GameObj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LandCreator" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAQkAECAAAAwgIAIAAAAAIAEAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>LandCreator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelMenager" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQoAIEAAIAAAxgAAAFCEEAAAAAUAAAIBAaAAAAAAAA=</HashCode>
+      <FileName>LevelMenager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEWQJAhAAABAEwggIIDAAAEwAAAMABICBAAAAAAAEAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tank" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgoABAAQAgAwAAGICABAAoAADCAQQIEFQAChAABAg=</HashCode>
+      <FileName>Tank.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgQAAAAAowBoIIQAAQC4AAAAABAgAIBAAAQAEAA=</HashCode>
+      <FileName>UI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinMenu" Collapsed="true">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAJAAgEAAAgwgAAAEAAAAAAAAAAhAAAJAAAAAAEAA=</HashCode>
+      <FileName>WinMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
