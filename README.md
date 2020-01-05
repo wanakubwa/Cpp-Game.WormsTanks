@@ -9,6 +9,13 @@ W swojej oryginalej wersji gra posiada algorytmicznie losowo generowany teren, k
 
 Teren został wygenerowany stosując generację dolnej warstwy ograniczającej teren oraz stosując szum Perlina górnej wartswy kształtującej całość terenu. Następnie wartswy zostały połączony sosując jeden z kszatłtów "prymitywnych" o nazwie "triangle strip".
 
+### Technologia
+
+Do stworzenia gry została użyta nastepująca technologia:
+
+- C++
+- Biblioteka graficzna oraz multimedialna [SFML](https://www.sfml-dev.org/)
+
 ## Zdjęcia z gry
 
 <img src= "Game_Images/Menu.PNG">
